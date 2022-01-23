@@ -1,0 +1,16 @@
+{
+  "name": "first-nodejs-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
